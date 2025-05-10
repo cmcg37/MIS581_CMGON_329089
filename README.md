@@ -5,6 +5,9 @@ Capstone_Predictors_N_1182.xlsx is the full data set used.
 Capstone_Predictors_N_1182_AlkG61.xlsx is the data set that was created that has all of the ALK_RAW variables that are > 61. 
 Capstone_Predictors_N_1182_AlkL61.xlsx is the data set that was created that has all of the ALK_RAW variables that are < 61.
 ****
+MIS581_Capstone_Portfolio_Tables.xlsx is a workbook that was used to create tables for the paper from SAS ODA outputs.  The file contains screenshots from SAS ODA.  
+  Please note that there are multiple tabs in the work book that correspond to sections in the paper. 
+****
 Code generated in SAS ODA has been uploaded: 
 SAS_Sumamry_Stats_01 has the descriptive stats for variables of interest. 
 SAS_Sumamry_Stats_01 has the descriptive stats for variables of non-interest. 
